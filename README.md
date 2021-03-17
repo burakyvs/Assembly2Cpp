@@ -1,5 +1,6 @@
 # Assembly2Cpp
 <sub>Made in 2019.</sub>
+<sub>(Windows 10 x64)</sub>
 <p><strong>Work Flow:</strong> Externs assembly code with C++. The function that coded in assembly is a basic <b>'strfind'</b> function. Returns the start index of second string in the first string.<p>
   
 <b>(Assembly codes: asm_kod.asm)</b>
